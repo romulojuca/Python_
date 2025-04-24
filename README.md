@@ -27,3 +27,4 @@ Consolidar o aprendizado em Python e construir uma base sólida para desenvolvim
 Caso queira dar feedback, duvidas ou apenas acompanhar minha jornada:
 
 - GitHub: [@romulojuca](https://github.com/romulojuca)
+- Email: romuloagrueda@gmail.com
